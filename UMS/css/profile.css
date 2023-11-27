@@ -1,0 +1,173 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.adm_body{
+    background: #c5e3ff;
+   
+    font-family:'Poppins',sans-serif ;
+}
+.adm_ava{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.adm_container{
+    background:#efefef;
+    width:740px;
+    height: 650px;
+    margin:0 auto;
+    position:relative;
+    margin-top: 10%;
+    box-shadow: 2px 5px 20px rgba(0, 0, 0,0.1 );
+}
+.adm_leftbox{
+    float: left;
+    
+    left:5%;
+    position: absolute;
+    width:15%;
+    height:647px;
+    background:#29B3C9;
+    box-shadow:  3px 3px 10px rgba(0, 0, 0,0.1 );
+    border:  solid #1e72bf;
+    border-radius: 2px;
+    border-width: 2px;
+}
+.adm_nav a{
+    list-style: none;
+    padding:35px;
+    color:#fff;
+    font-size: 1 lem;
+    display: block;
+    transition: all .3s ease-in-out;
+}
+.adm_nav a:hover{
+    color:#39e0bb;
+    cursor:pointer;
+    transform: scale(1.2);
+}
+.adm_nav a:first-child{
+    margin-top: 7%;
+}
+.adm_nav a.active{
+    color:#39e0bb !important;
+}
+.adm_rightbox{
+    width:60%;
+    margin-left:27%;
+}
+.adm_tab{
+    transition: all .5s ease-inz;
+    width:80%;
+}
+h1{
+    color:#423C74;
+    font-size: 2.2rem;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.adm_h2,.adm_p{
+    color: #777;
+    text-transform: uppercase;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+.adm_input,.adm_p{
+    border: 0;
+    border-bottom: 1px solid;
+    width: 80%;
+    font-size: 7.em;
+    padding:2px 0;
+}
+
+.adm_butn{
+    text-transform: uppercase;
+    font-size: 10px;
+    border: 0;
+    color:#fff;
+    background-color: #39e0bb;
+    padding: 3px 11px;
+    box-shadow: 0 2px 4px 0px rgba(0, 0, 0,0.1 );
+    cursor: pointer;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.adm_Profile_tabshow{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 0px;
+   padding-right: 0px;
+}
+i.fa.fa-user{
+
+font-size: 25px;
+
+
+}
+i.fa.fa-archive
+{
+
+    font-size: 25px;
+    
+}
+i.fa.fa-cog{
+
+        font-size: 25px;
+        
+}
+.adm_leftbox{
+    display: flex;
+    align-items: center;
+    align-content: row;
+}
+.adm_check{
+    color: #777;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+.adm_avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+  }
+  .adm_propic{
+    
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    
+  }
+  .adm_file{
+    text-transform: uppercase;
+    font-size: 10px;
+    border: 0;
+    color:#fff;
+    background-color: #909DB6;
+    padding: 3px 11px;
+    box-shadow: 0 1px 3px 0px rgba(0, 0, 0,0.1 );
+    cursor: pointer;
+    margin-top: 10px;
+ 
+  }
+  .adm_files{
+    color: #777;
+    text-transform: uppercase;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-left: 2px;
+    margin-top: 10px;
+  }
+  

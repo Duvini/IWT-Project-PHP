@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+
+  }
+
+
+.form_body{
+    background-color: #c5e3ff;
+}
+form{
+    width:700px;
+    border-radius:0px;
+    margin: 3px auto ;
+    padding:20px 20px 20px 20px;
+    background:white;
+    box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.2);
+    height: 700px;
+   }
+   .conc_topic{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 35px;
+
+
+}
+.tick_footer{
+
+        padding: 131px 43px;
+        margin-bottom: 50px;
+}
+p{
+   
+    padding-top: 10px;
+    
+}
+
+input[type=text]{
+     padding: 17px 17px;
+     height: 0px;
+     width: 600px;
+     margin: 5px ;
+
+    
+}
+input[type=email]{
+padding: 17px 17px;
+    height: 0px;
+    width: 400px;
+    margin: 5px;
+    
+}
+
+textarea{
+    padding: 20px 20px;
+    height: 149px;
+    width: 400px;
+    margin: 5px;
+   
+}
+
+input[type=file]{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding:30px 10px 20px 10px;
+    margin: auto;
+}
+
+label{
+    padding-bottom: 5px;
+    padding-top: 5px;
+   
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 15px,15px,15px,15px;
+    
+    
+
+}
+
+.submit{
+    font-size: 15px;
+    height: 45px;
+    border-radius: 10px;
+    width:100px;
+    padding:0 10px 0 10px;
+    margin-left: 20px; 
+      
+}
+
+lable.email{
+    font-style: italic;
+    font-weight: bold;  
+}
+.submit:hover {
+    background-color: #336fc9;
+    color: white;
+}
+
+
+
+
+
+

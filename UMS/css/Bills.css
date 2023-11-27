@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+.Bill_ums{
+    background: #909DB6;
+    overflow: auto;
+    padding: 10px;
+}
+.appname{
+    float:left;
+}
+.Loggedin{
+    float:right;
+}
+.ums{
+    background: #c5e3ff;
+    font-size: 16px;
+}
+main{
+    width: 1000px;
+    margin: 30px auto;
+}
+main h1{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+main h1 span{
+    font-size: 20px;
+    left: 10px;
+}
+table.masterlist{
+    width: 100%;
+    border-collapse: collapse;
+}
+form.userform label{
+    width:30%;float:left;
+}
+table.masterlist th{
+    background-color: #29B3C9;
+    text-align: left;
+}
+table.masterlist th,table.masterlist td{
+    padding:10px;
+    border-bottom: 1px solid #aaa;
+}
+.staffForm{
+    width: 30%;
+    padding-top: 5%;
+    padding-left: 25%;
+}
+.p_stf{
+    padding: 5%;
+}
+.staffForm input{
+    width:150%;
+    height:30px;
+}
+.errmsg{
+    margin:20px 0;
+    
+}
+form.userform button{
+width:200px;
+
+}

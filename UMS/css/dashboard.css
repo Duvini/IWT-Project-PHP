@@ -1,0 +1,76 @@
+
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+
+}
+
+.adm_ava{
+	vertical-align: middle;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+}
+.adm_avas{
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+}
+.greeting{
+	position: relative;
+	font-size: 5vw;
+	box-sizing:border-box;
+	text-align: center;
+	color: #3c1f73;
+	text-transform : uppercase;
+	
+	
+}
+
+.main-container{
+	margin: 100px;
+	align-content:center ;
+	color: #6e93f7;
+	text-align: center;
+	font-size: 30px;
+	margin-left: 100px;
+	
+	
+}
+
+.adm_dash533{
+	
+	width: 500px;
+    display: flex;
+	margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: medium;
+}
+.adm_123Img_{
+	
+    height: 64%;
+    margin-top: 74%;
+	margin-left: 100px;
+	padding-top: 100px;
+
+}
+.hommg{
+display: flex;
+      position: absolute;
+      align-items: center;
+      height: 85%;
+      right: 250px;
+      top: 30px;
+}
+.para{
+	top: 140px;
+      margin-left: 10px;
+	  margin-right: 270px;
+}
