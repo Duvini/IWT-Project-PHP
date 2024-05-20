@@ -16,10 +16,10 @@ Key Features:
 ⚙️ Tech Elegance: Behind the scenes, our platform dances with the harmonious integration of PHP, JavaScript, MySQL, and HTML. This amalgamation of technologies ensures robust functionality, security, and a user-friendly interface.
 
 As you embark on this virtual journey, envision a world where every event is a masterpiece waiting to be created, and every reminder is a gentle nudge towards productivity. Join us at BILLME and let's redefine the art of event management and task organization.
-<img width="1169" alt="image" src="https://github.com/Duvini/IWT-Project-PHP/assets/121706197/722a2121-22fd-4d98-9fd1-9ccd4625cc62">
-<img width="1169" alt="image" src="https://github.com/Duvini/IWT-Project-PHP/assets/121706197/4c993936-6ae8-4808-b2f5-374aac1d07e8">
-<img width="1169" alt="image" src="https://github.com/Duvini/IWT-Project-PHP/assets/121706197/dfded128-aed9-4c4e-8666-419b381d9049">
 <img width="1169" alt="image" src="https://github.com/Duvini/IWT-Project-PHP/assets/121706197/bf5aa00c-8aa2-4f45-b147-a4da060f7952">
+<img width="1155" alt="image" src="https://github.com/Duvini/IWT-Project-PHP/assets/121706197/9321971a-ff94-4db5-b4de-eb06b0d96590">
+
+
 
 
 
